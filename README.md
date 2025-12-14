@@ -35,4 +35,3 @@ Les maladies cardiovasculaires représentent près de 18 millions de décès par
 CardioVision combine science, visualisation et accessibilité pour prévenir et comprendre les risques cardiovasculaires à des fins pédagogiques et exploratoires.
 ```
 
-Si tu veux, je peux te faire **une version encore plus “GitHub-friendly”** avec des badges et un aperçu rapide des fonctionnalités pour ton dépôt. Veux‑tu que je fasse ça ?
