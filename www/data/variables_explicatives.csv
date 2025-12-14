@@ -1,0 +1,14 @@
+Nom,Type,Description
+age,entier,Âge du patient
+sex,qualitative,Sexe (0: femme, 1: homme)
+cp,qualitative,Type de douleur thoracique (1: typique, 2: atypique, 3: non-angineuse, 4: asymptomatique)
+trtbps,entier,Pression artérielle au repos (en mm Hg)
+chol,entier,Taux de cholestérol (en mg/dl)
+fbs,qualitative,Glycémie à jeun (> 120 mg/dl: 1 = vrai, 0 = faux)
+restecg,qualitative,Résultat ECG au repos (0: normal, 1: anomalie onde ST-T, 2: hypertrophie ventriculaire gauche)
+thalachh,entier,Fréquence cardiaque maximale atteinte
+exng,qualitative,Angine induite par  exercice (1: oui, 0: non) 
+oldpeak,continue,Dépression du segment ST pendant  exercice
+slp,qualitative,Pente du segment ST (1: ascendante, 2: plate, 3: descendante)
+caa,entier,Nombre de vaisseaux principaux colorés (0-3)
+thall,qualitative,Thalassémie (1: normal, 2: défaut fixe, 3: défaut réversible)

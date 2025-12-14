@@ -1,0 +1,13 @@
+name: projet2025_JB_la_legende
+title: projet2025_JB_la_legende
+username: jblalegende17
+account: jblalegende17
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14980253
+bundleId: 10510461
+url: https://jblalegende17.shinyapps.io/projet2025_JB_la_legende/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|images/clipboard-1552596928.png|images/clipboard-2126163886.png|Rapport_Projet_CardioVision.pdf|Rapport_Projet_CardioVision.qmd|sujet_projet_shiny.pdf
