@@ -11,7 +11,7 @@ Noms des participants :
 
 -   **KOUASSI** Kouadio Prosper
 
-Lien vers l'application : <https://jblalegende17.shinyapps.io/projet2025_JB_la_legende/>
+Lien vers l'application : https://jblalegende17.shinyapps.io/projet2025_JB_la_legende/
 
 # **CardioVision : l'IA au service du Coeur**
 
