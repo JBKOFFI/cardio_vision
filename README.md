@@ -1,5 +1,3 @@
-Voici une version concise et claire de ton README pour **CardioVision** :
-
 ```markdown
 # CardioVision : l'IA au service du Coeur
 
